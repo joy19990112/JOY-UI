@@ -6,6 +6,7 @@
 例如：
 路由模块化、
 vuex并动态加载modlues、
-mixins
+mixins、
+eslint代码规范
 持续更新中...
 ```
