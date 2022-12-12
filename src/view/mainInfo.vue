@@ -3,14 +3,17 @@
 </template>
 
 <script>
+import testMixin from "@/mixins/test.js";
 export default {
+  mixins: [testMixin],
   components: {},
   props: {},
   data() {
     return {};
   },
-
-  created() {},
+  created() {
+    this.getData();
+  },
   mounted() {},
   methods: {},
   computed: {},
