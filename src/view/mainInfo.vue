@@ -1,5 +1,5 @@
 <template>
-  <div>{{ $store.state.testVue.testVue.test }}</div>
+  <div class="text-3xl">{{ $store.state.testVue.testVue.test }}</div>
 </template>
 
 <script>

@@ -7,6 +7,7 @@
 路由模块化、
 vuex并动态加载modlues、
 mixins、
-eslint代码规范
+eslint代码规范、
+tailwindcss
 持续更新中...
 ```
