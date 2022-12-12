@@ -1,24 +1,11 @@
-# my-ui
+# Vue-Project-Framework 
 
-## Project setup
+## 项目介绍
 ```
-npm install
+此项目由vue框架搭建而成，并引入了一些常用的方法，
+例如：
+路由模块化、
+vuex并动态加载modlues、
+mixins
+持续更新中...
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
