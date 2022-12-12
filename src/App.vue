@@ -11,6 +11,6 @@
   overflow-y: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #f7f8fa;
+  background-color: #ffffff;
 }
 </style>
