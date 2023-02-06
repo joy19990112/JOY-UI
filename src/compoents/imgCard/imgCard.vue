@@ -15,7 +15,7 @@
           :height="height"
           :src="item.icon"
         ></van-image>
-        <!-- title -->
+        <!-- 标题 -->
         <span class="text">{{ item.title }}</span>
       </div>
     </div>
