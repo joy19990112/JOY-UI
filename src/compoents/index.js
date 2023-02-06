@@ -1,5 +1,5 @@
-import amountInput from '@/components/amountInput/amountInput'
+import amountInput from '@/components/imgCard/imgCard'
 
 export {
-  amountInput
+  imgCard
 }

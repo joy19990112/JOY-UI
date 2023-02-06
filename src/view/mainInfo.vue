@@ -12,6 +12,7 @@ export default {
     return {};
   },
   created() {
+    // testMixin
     this.getData();
   },
   mounted() {},
